@@ -25,6 +25,6 @@ Two distinct type of semantic web component pattern are proposed :
  
  
 
-
- 
+For some perspective on this idea I wrote a little intro :
+https://docs.google.com/document/d/e/2PACX-1vS_7NGqAHeT5LYzCNHFfROpGcnBPTKnOlkrl3CjBQC7yDPYnHv7NBwMZoF-dBu2On9oARISVmOL-Os0/pub
  
