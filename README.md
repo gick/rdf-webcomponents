@@ -1,5 +1,6 @@
 # rdf-webcomponents
 An attempt to use semantic for easier interfacing and prototyping of web components
+Work in progress, no element so far but working on it.
 
 Two distinct type of semantic web component pattern are proposed : 
 ## Semantic interface
@@ -7,9 +8,9 @@ A web component semantic interface pattern comports three specific attributes  :
  
  - public-rdf-component describes the type of web component that can/should be present in the same execution context, either through direct association or though event broadcast (ex : require a display component that can draw lines) 
  
- - public-rdf-functions describes public functions in terms of input (datatype property), output (sim), effect (concept of a WC ontology)
+ - public-rdf-functions describes public web component functions in terms of input (datatype property), output (sim), effect (concept of a WC ontology)
  
- - public-rdf-propeties will associate properties with datatype together with appropriate semantic (ex isa latitude, for a lat in degree)
+ - public-rdf-properties will associate properties with datatype together with appropriate semantic (ex isa latitude, for a lat in degree)
 
  
 ->An hosting component will allow to create a WC architecture based only on these interface, in a semantic Web Component repo
